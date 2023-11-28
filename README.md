@@ -1,4 +1,4 @@
-# somatorio
+# somatório
 
 <h1>Execução do Código Dart:</h1>
 <ol>
